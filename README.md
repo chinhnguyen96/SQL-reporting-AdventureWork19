@@ -1,4 +1,4 @@
-# SQL-AdventureWork
+# SQL-reporting-AdventureWork
 Financial query 
 
 -- 1. Calculate P&L statement 
@@ -12,6 +12,8 @@ Financial query
 1.4 Calculate GL Variance 
 
 1.5 Report heading with GL Amount, GL Budget, GL Var (Jan 2012) 
+
+Reporting with P&L statement
 
 -- 2. Balance sheet 
 2.1 

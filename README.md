@@ -16,11 +16,13 @@ Financial query
 Reporting with P&L statement
 
 -- 2. Balance sheet 
-2.1 
 
-2.2 
+2.1 Report heading report IN ('Fixed Assets','Total Assets','Equity','Liabilities','Total Liability and Equity')
+
+2.2 Balance sheet report (GL Amount as GL Closing Balance)
 
 -- 3. Cash Flow 
+
 3.1 
 
 3.2 
